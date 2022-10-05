@@ -1,0 +1,90 @@
+The diagonals of a square:
+a) They are oblique and cut at the midpoint
+b) They are perpendicular and do not cut at the midpoint
+c) They are not oblique and are cut at the midpoint
+d) They are not perpendicular and are not cut at the midpoint
+
+A tangent line in a circumference passes through that figure in:
+a) No point
+b) One point
+c) Two points
+d) Three points
+
+A string is a segment of a line that:
+a) Touch the circumferencia in a single point
+b) Measures half the radius of the circumference
+c) Joins the two ends of the arc of circumference
+d) Divides a semi-circumference in two
+
+When solving the equation (x - 4) (x + 4) = 33, the solution is:
+a) 49
+b) 14
+c) 7
+d) 16
+
+The factorization of the expression x² + 5x – 24, is:
+a) (x-3)(x-8)
+b) (x-3)(x+8)
+c) (x+3)(x+8)
+d) (x+3)(x-8)
+
+Which of the following statements is correct?
+a) Trapezoids are quadrilaterals with parallel sides
+b) Squares are quadrilaterals of oblique sides
+c) Trapezoids are quadrilaterals without parallel sides
+d) Rectangles are quadrilaterals without parallel sides
+
+Which of the following statements is correct?
+a) The opposite sides of a rhomboid can be parallel
+b) The opposite sides of a trapezoid can be parallel
+c) The opposite sides of a triangle can be parallel
+d) The opposite sides of a scalene can be parallel
+
+How many diagonals does a quadrilateral have?
+a) Four
+b) Eight
+c) Two
+d) One
+
+The length of a vessel that is 800 feet is larger by 744 feet than the 8/9 of the width, how long is the width?
+a) 55 feet
+b) 63 feet
+c) 71 feet
+d) 79 pies
+
+If the area of a rectangle is x² + x – 6, which of the following factorizations correctly presents the product of its base by its height? 
+a) (x + 3) (x – 2)
+b) (x + 1) (x – 6)
+c) (x – 3) (x + 2)
+d) (x – 1) (x + 6)
+
+If the volume of a cube is 1953,125 m³, how much does its edge measure?
+a) 156.25
+b) 12.5
+c) 37.5
+d) 112.5
+
+The formula to calculate the area of a circle when its radius is known is A=pr². What is the variation of the area of a circle with respect to its radius?
+a) Inversely proportional to the square of the radius
+b) Directly proportional to the ratio of the radius
+c) Inversely proportional to the product of the radius
+d) Directly proportional to the square of the radius
+
+
+A second-degree equation can be solved:
+a) Matching it to zero and adding it
+b) By setting it to zero and subtract it
+c) Equalizing it to zero and multiplying it
+d) Matching it to zero and factoring it
+
+The probability can be calculated as:
+a) Number of probable cases / number of possible cases
+b) Number of probable cases = number of possible cases
+c) Number of probable cases + number of possible cases
+d) Number of probable cases – number of possible cases
+
+It is a transformation of a geometric figure in which, starting from a fixed point, a similar figure is obtained:
+a) Similarity
+b) Homotecia
+c) Consistency
+d) Equivalence
